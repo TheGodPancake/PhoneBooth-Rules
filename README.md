@@ -10,6 +10,6 @@ False reports: Do not falsely report users to ensure effective rule enforcement.
 
 Invite links: No Discord invite links in chat; use DMs if requested.
 
-Self-harm/suicide: No mentions to maintain a safe and happy environment.
+Self-harm/suicide: mentions of self-harm & suicide are forbidden to maintain a safe and happy environment.
 
 Follow Discord guidelines: Adhere to Discord’s guidelines and TOS to avoid being banned.
